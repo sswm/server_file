@@ -2,5 +2,10 @@
 
 int main(void) {
   printf("my first use git here\n"); 
-  return 0;
+  return 1;
+}
+
+void {
+  
+  
 }
